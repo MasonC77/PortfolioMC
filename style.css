@@ -42,16 +42,37 @@ border-left: 0 none;
 	max-width: 650px;
 	padding: 30px;
 	margin: 0 0 40px;
-	background: #fff;
-	border: 1px solid #ddd;
+	background: #6ADC91;
+	border: 1px solid #6ADC91;
 }
 body {
-	color: #05386B
+	color: #EDF5DF
+	background:#6ADC91;
 }
 .auth-img{
 	float: left;
 	width: 200px;
 	height: auto;
 	margin-top: 10px;
-	margin-right: 
+	margin-right: 25px;
+}
+.sidebar{
+	float: right;
+	width 100%;
+	max-width: 270px;
+	padding: 300;
+	background: yellow;
+	border: 1px solid yellow:;
+}
+h3,.sidebar h2{
+	padding-bottom: 20px ;
+	margin-bottom: 15px;
+	line-height: 22px;
+	border-bottom: 2px solid yellow;
+}
+.social{
+	width: 62px;
+	height: 62px;
+	margin-top: 8px;
+	margin-right: 5px;
 }
